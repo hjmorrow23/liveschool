@@ -156,6 +156,7 @@
             height: auto;
             opacity: 1;
             pointer-events: auto;
+            z-index: 1000;
         }
     }
     .search-icon {
